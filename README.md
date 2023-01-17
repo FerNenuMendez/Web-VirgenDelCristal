@@ -1,5 +1,6 @@
-﻿# webVirgenDelCristal
-Web de presentacion basica, con 4 secciones, boton de contacto directo con whatsapp.
-
+﻿# Web Virgen Del Cristal
+Landing de presentacion para Virgen del Cristal s.a.
+Compuesta por 4 secciones.
+Dentro de la seccion "Contacto" creacion de un boton de comunicacion directa por whatsapp.
 
 www.virgendelcristal.com.ar
