@@ -36,8 +36,9 @@ body {
 }
 .header__nav__a {
   color: aliceblue;
+  font-size: large;
   text-decoration: none;
-  margin: 5px;
+  margin: 20px;
 }
 .header__nav__logo__img {
   width: 4rem;
@@ -60,6 +61,7 @@ body {
 }
 .nosotros__p {
   font-weight: 600;
+  font-size: large;
 }
 /*SERVICIOS*/
 .servicios {
@@ -77,9 +79,13 @@ body {
   justify-content: space-between;
 }
 .clientes__img img {
-  width: 10vw;
-  border-radius: 50%;
+  width: 12vw;
   margin: 2rem 2rem;
+}
+.clientes__img__var {
+  width: 12vw;
+  margin: 2rem 2rem;
+  border-radius: 50%;
 }
 .clientes__img2 {
   display: none;
@@ -100,6 +106,11 @@ body {
 }
 .contacto__div__p {
   font-weight: 600;
+  font-size: large;
+}
+.contacto__div__p__a{
+  text-decoration: none;
+  color: black;
 }
 .contacto__img {
   width: 2rem;
